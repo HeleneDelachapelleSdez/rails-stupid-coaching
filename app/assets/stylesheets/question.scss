@@ -1,0 +1,12 @@
+// Place all the styles related to the Question controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+$pink: #f3b2df;
+
+ body {
+   background: $pink; // Using this variable
+ }
+
+h1 {
+   color: red;
+}
